@@ -8,4 +8,4 @@ Welcome to Github documentation's documentation!
 
 .. toctree::
    :maxdepth: 2
-  Numbers:
+  :Numbers:
