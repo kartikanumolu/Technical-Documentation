@@ -31,7 +31,7 @@
 signup [click here](https://github.com/)
 
 **to create a table**
-Name|Branch|Rollno
+|Name|Branch|Rollno|
 |-----|------|-------|
 kartik|cse|1
 anumolu|cse|2
